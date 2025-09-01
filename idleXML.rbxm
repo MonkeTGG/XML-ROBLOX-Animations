@@ -1,3 +1,6 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4" assettype="animation">
+   <External>null</External>
+   <External>nil</External>
 <Item class="KeyframeSequence" referent="RBX0">
   <Properties>
     <string name="Name">ConvertedAnim</string>
@@ -991,3 +994,4 @@
     </Item>
   </Item>
 </Item>
+</roblox>
